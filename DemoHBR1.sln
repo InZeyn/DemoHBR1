@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoHBR1", "DemoHBR1\DemoHBR1.csproj", "{5A7122A8-D41A-4841-AC63-85CBD1789891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoHBRLib", "DemoHBRLib\DemoHBRLib.csproj", "{F7E19818-2367-4173-8DB0-A430B923B592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A7122A8-D41A-4841-AC63-85CBD1789891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7122A8-D41A-4841-AC63-85CBD1789891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7122A8-D41A-4841-AC63-85CBD1789891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7122A8-D41A-4841-AC63-85CBD1789891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E19818-2367-4173-8DB0-A430B923B592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E19818-2367-4173-8DB0-A430B923B592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E19818-2367-4173-8DB0-A430B923B592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E19818-2367-4173-8DB0-A430B923B592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C33A94-74D4-4272-A4ED-839D39D068C2}
+	EndGlobalSection
+EndGlobal
